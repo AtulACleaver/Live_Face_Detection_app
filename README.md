@@ -1,2 +1,6 @@
-# Live_Face_Detection_app
-This is a face detection application for video and live webcams. 
+# Introduction
+# To start using it
+ - Download `open cv` from `pip`
+ - Download `python`
+# How to use it
+The instructions to make open cv look at the web cam to video and vise versa will be given in the code itself.
